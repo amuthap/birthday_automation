@@ -1,0 +1,11 @@
+schtasks /Create ^
+ /TN "Rotasmart Daily" ^
+ /SC DAILY ^
+ /ST 00:05 ^
+ /TR "\"C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\run_daily_job.bat\"" ^
+ /RU "NT AUTHORITY\SYSTEM"
+--------------
+
+
+
+C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\run_daily_job.bat

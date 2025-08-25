@@ -1,0 +1,1545 @@
+Traceback (most recent call last):
+  File "C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\daily_job.py", line 14, in <module>
+    run([PY, "scraper_fix.py"])
+    ~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\daily_job.py", line 8, in run
+    print("\u2192", " ".join(cmd))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 0: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\daily_job.py", line 14, in <module>
+    run([PY, "scraper_fix.py"])
+    ~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\daily_job.py", line 8, in run
+    print("\u2192", " ".join(cmd))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 0: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\daily_job.py", line 14, in <module>
+    run([PY, "scraper_fix.py"])
+    ~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vijay\OneDrive\Desktop\BirthdayAuto (FINAL) - Copy\textScrape\daily_job.py", line 8, in run
+    print("\u2192", " ".join(cmd))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 0: character maps to <undefined>
+C:\Python313\python.exe: can't open file 'C:\\Users\\vijay\\OneDrive\\Desktop\\BirthdayAuto (FINAL) - Copy\\textScrape\\scraper_fix.py': [Errno 2] No such file or directory
+-> C:\Python313\python.exe scraper_fix.py
+C:\Python313\python.exe: can't open file 'C:\\Users\\vijay\\OneDrive\\Desktop\\BirthdayAuto (FINAL) - Copy\\textScrape\\scraper_fix.py': [Errno 2] No such file or directory
+-> C:\Python313\python.exe scraper_fix.py
+Saved 14 team members to our_team_details.csv
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+^CSaved 14 team members to our_team_details.csv
+Looking for birthdays on 08/08/2025…
+Using noImage.jpg for Rtn.R Krishnakumar
+✅ Created image: output\Rtn.R_Krishnakumar_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.R_Krishnakumar_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.R_Krishnakumar_birthday.jpg
+❌ WhatsApp send failed for Rtn.R Krishnakumar: 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+Using noImage.jpg for Rtn.A. Ayyapparaj
+✅ Created image: output\Rtn.A._Ayyapparaj_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.A._Ayyapparaj_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.A._Ayyapparaj_birthday.jpg
+✅ WhatsApp message sent to Rtn.A. Ayyapparaj
+Using noImage.jpg for Rtn.DHINU SHRI BADRI
+✅ Created image: output\Rtn.DHINU_SHRI_BADRI_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.DHINU_SHRI_BADRI_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.DHINU_SHRI_BADRI_birthday.jpg
+✅ WhatsApp message sent to Rtn.DHINU SHRI BADRI
+Downloading image for Rtn.R. SOMASUNDARAM
+✅ Created image: output\Rtn.R._SOMASUNDARAM_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.R._SOMASUNDARAM_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.R._SOMASUNDARAM_birthday.jpg
+✅ WhatsApp message sent to Rtn.R. SOMASUNDARAM
+Downloading image for Rtn.NAGARAJAN M
+✅ Created image: output\Rtn.NAGARAJAN_M_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.NAGARAJAN_M_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.NAGARAJAN_M_birthday.jpg
+✅ WhatsApp message sent to Rtn.NAGARAJAN M
+Downloading image for Rtn.R. Ravi
+✅ Created image: output\Rtn.R._Ravi_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.R._Ravi_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.R._Ravi_birthday.jpg
+✅ WhatsApp message sent to Rtn.R. Ravi
+Downloading image for Rtn.Ramachandra A. Moorthy
+✅ Created image: output\Rtn.Ramachandra_A._Moorthy_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.Ramachandra_A._Moorthy_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.Ramachandra_A._Moorthy_birthday.jpg
+✅ WhatsApp message sent to Rtn.Ramachandra A. Moorthy
+Downloading image for Rtn.KHALIF AHAMED USMAN
+✅ Created image: output\Rtn.KHALIF_AHAMED_USMAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.KHALIF_AHAMED_USMAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.KHALIF_AHAMED_USMAN_birthday.jpg
+✅ WhatsApp message sent to Rtn.KHALIF AHAMED USMAN
+Downloading image for Rtn.Senthilkumar B
+✅ Created image: output\Rtn.Senthilkumar_B_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.Senthilkumar_B_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.Senthilkumar_B_birthday.jpg
+✅ WhatsApp message sent to Rtn.Senthilkumar B
+Downloading image for Rtn.R RAMAKRISHNAN
+✅ Created image: output\Rtn.R_RAMAKRISHNAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.R_RAMAKRISHNAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.R_RAMAKRISHNAN_birthday.jpg
+✅ WhatsApp message sent to Rtn.R RAMAKRISHNAN
+Downloading image for Rtn.VENKATESAN ARUN
+✅ Created image: output\Rtn.VENKATESAN_ARUN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.VENKATESAN_ARUN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.VENKATESAN_ARUN_birthday.jpg
+✅ WhatsApp message sent to Rtn.VENKATESAN ARUN
+Downloading image for Rtn.K.S PRAKASH
+✅ Created image: output\Rtn.K.S_PRAKASH_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.K.S_PRAKASH_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.K.S_PRAKASH_birthday.jpg
+✅ WhatsApp message sent to Rtn.K.S PRAKASH
+Downloading image for Rtn.P. TAMILARASE
+✅ Created image: output\Rtn.P._TAMILARASE_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.P._TAMILARASE_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.P._TAMILARASE_birthday.jpg
+✅ WhatsApp message sent to Rtn.P. TAMILARASE
+Downloading image for Rtn.SATHAPPA SUBRAMANIAN
+✅ Created image: output\Rtn.SATHAPPA_SUBRAMANIAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250808_Rtn.SATHAPPA_SUBRAMANIAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ Uploaded to Picnie: https://picnie.s3.ap-south-1.amazonaws.com/user_assets/user_226/raw_250808_Rtn.SATHAPPA_SUBRAMANIAN_birthday.jpg
+✅ WhatsApp message sent to Rtn.SATHAPPA SUBRAMANIAN
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 11 team members to our_team_details.csv
+Looking for birthdays on 08/09/2025…
+✅ Created image: output\Rtn.CHITRA_DEVI_RAMADOSS_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.CHITRA_DEVI_RAMADOSS_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.CHITRA DEVI RAMADOSS
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919842694845-1422978468): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919842118542-1487664244): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.DR_GOVINDAN_MADANKUMAR_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.DR_GOVINDAN_MADANKUMAR_birthday.jpg","error":false,"message":"Successfully uploaded."}
+❌ DM failed for Rtn.DR GOVINDAN MADANKUMAR: 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919842694845-1422978468): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919842118542-1487664244): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.RAJKUMAR_R_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.RAJKUMAR_R_birthday.jpg","error":false,"message":"Successfully uploaded."}
+❌ DM failed for Rtn.RAJKUMAR R: 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.P._KARMEGAMANI_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.P._KARMEGAMANI_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.P. KARMEGAMANI
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.DR._S._RAMDOSS_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.DR._S._RAMDOSS_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.DR. S. RAMDOSS
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.S.A._CLEMENTS_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.S.A._CLEMENTS_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.S.A. CLEMENTS
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.NAGENDHIRAN_A_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.NAGENDHIRAN_A_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.NAGENDHIRAN A
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.S_SARAVANAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.S_SARAVANAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.S SARAVANAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.J._ARUN_PRAKASH_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.J._ARUN_PRAKASH_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.J. ARUN PRAKASH
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Professor_MAHÉNDRAPANDIAN_VARADHARAJAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.Professor_MAHNDRAPANDIAN_VARADHARAJAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Professor MAHÉNDRAPANDIAN VARADHARAJAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.STALIN_M_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250809_Rtn.STALIN_M_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.STALIN M
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 5 team members to our_team_details.csv
+Looking for birthdays on 08/10/2025…
+✅ Created image: output\Rtn.J_Sankaran_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250810_Rtn.J_Sankaran_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.J Sankaran
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.VIJAYAN_SOANS_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250810_Rtn.VIJAYAN_SOANS_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.VIJAYAN SOANS
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.G._Jayaprakash_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250810_Rtn.G._Jayaprakash_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.G. Jayaprakash
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.R._ELANKOVAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250810_Rtn.R._ELANKOVAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R. ELANKOVAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.A_Thangavel_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250810_Rtn.A_Thangavel_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.A Thangavel
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 7 team members to our_team_details.csv
+Looking for birthdays on 08/11/2025…
+✅ Created image: output\Rtn.R.S._Gunamalai_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250811_Rtn.R.S._Gunamalai_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R.S. Gunamalai
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.DR._A._SUBBURAJ_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250811_Rtn.DR._A._SUBBURAJ_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.DR. A. SUBBURAJ
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.K.R._RAJADURAI_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250811_Rtn.K.R._RAJADURAI_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.K.R. RAJADURAI
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.BALASUDHA_MURUGESAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250811_Rtn.BALASUDHA_MURUGESAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.BALASUDHA MURUGESAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.R_R_VELMURUGAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250811_Rtn.R_R_VELMURUGAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R R VELMURUGAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.GOWTHAMAN_S_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250811_Rtn.GOWTHAMAN_S_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.GOWTHAMAN S
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.REVATHI_R_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250811_Rtn.REVATHI_R_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.REVATHI R
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 11 team members to our_team_details.csv
+Looking for birthdays on 08/12/2025…
+✅ Created image: output\Rtn.R.K_SAKTHIVEL_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.R.K_SAKTHIVEL_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R.K SAKTHIVEL
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.VIGNESH_R_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.VIGNESH_R_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.VIGNESH R
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.SALOMI_SANGEETHA_L_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.SALOMI_SANGEETHA_L_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.SALOMI SANGEETHA L
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Rtn_Sai_Vinodh_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.Rtn_Sai_Vinodh_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Rtn Sai Vinodh
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.S._KASIVISWANATHAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.S._KASIVISWANATHAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.S. KASIVISWANATHAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.R.K_GANAPATHY_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.R.K_GANAPATHY_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R.K GANAPATHY
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Mr_SURESHKUMAR_SURESHKUMAR_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.Mr_SURESHKUMAR_SURESHKUMAR_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Mr SURESHKUMAR SURESHKUMAR
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.S_MOHAN_BABU_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.S_MOHAN_BABU_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.S MOHAN BABU
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.SENTHIL_KUMAR_K_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.SENTHIL_KUMAR_K_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.SENTHIL KUMAR K
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Rtn_NITISH_R_AMIN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.Rtn_NITISH_R_AMIN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Rtn NITISH R AMIN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919788864442-1632333227
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.K._Kesavaraj_Kulanthaivel_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250812_Rtn.K._Kesavaraj_Kulanthaivel_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.K. Kesavaraj Kulanthaivel
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 10 team members to our_team_details.csv
+Looking for birthdays on 08/13/2025…
+✅ Created image: output\Rtn.Dharani_Kesavan_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.Dharani_Kesavan_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Dharani Kesavan
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Uma_Kalyanasundaram_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.Uma_Kalyanasundaram_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Uma Kalyanasundaram
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.MANIKANDAN_THIRUMOORTHY_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.MANIKANDAN_THIRUMOORTHY_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.MANIKANDAN THIRUMOORTHY
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.M_SRINIVASAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.M_SRINIVASAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.M SRINIVASAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Murugan_J_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.Murugan_J_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Murugan J
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.V._SARAVANAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.V._SARAVANAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.V. SARAVANAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.ER._BERLIN_THOMAS_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.ER._BERLIN_THOMAS_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.ER. BERLIN THOMAS
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.P._SELVAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.P._SELVAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.P. SELVAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.M._SELVARAJ_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.M._SELVARAJ_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.M. SELVARAJ
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Rtn_Radhika_Raman_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250813_Rtn.Rtn_Radhika_Raman_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Rtn Radhika Raman
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 15 team members to our_team_details.csv
+Looking for birthdays on 08/14/2025…
+✅ Created image: output\Rtn.Vaishnavi_Naharajan_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.Vaishnavi_Naharajan_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Vaishnavi Naharajan
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.M.S._Sundaravel_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.M.S._Sundaravel_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.M.S. Sundaravel
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.C._Arjunan_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.C._Arjunan_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.C. Arjunan
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.REKHA_ASHWIN_BHANDARI_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.REKHA_ASHWIN_BHANDARI_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.REKHA ASHWIN BHANDARI
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.P._MUTHUSAMY_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.P._MUTHUSAMY_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.P. MUTHUSAMY
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.DR._V._IYAPPAN_SHANKAR_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.DR._V._IYAPPAN_SHANKAR_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.DR. V. IYAPPAN SHANKAR
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.K._VEERAMANI_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.K._VEERAMANI_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.K. VEERAMANI
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.SIVAKUMAR.R_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.SIVAKUMAR.R_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.SIVAKUMAR.R
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.N._SIRAJUDEEN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.N._SIRAJUDEEN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.N. SIRAJUDEEN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.KANAGASABAI_SANKAR_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.KANAGASABAI_SANKAR_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.KANAGASABAI SANKAR
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.P_Ezhilarasan_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.P_Ezhilarasan_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.P Ezhilarasan
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.GANESAN_SURESH_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.GANESAN_SURESH_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.GANESAN SURESH
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.K.S._SARVESWARAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.K.S._SARVESWARAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.K.S. SARVESWARAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.N.S_Muthikrishnan_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.N.S_Muthikrishnan_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.N.S Muthikrishnan
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.VERGIN_SUMITHA_A_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250814_Rtn.VERGIN_SUMITHA_A_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.VERGIN SUMITHA A
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 16 team members to our_team_details.csv
+Looking for birthdays on 08/15/2025…
+✅ Created image: output\Rtn.MUZZAFAR_HUSSAIN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.MUZZAFAR_HUSSAIN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+❌ DM failed for Rtn.MUZZAFAR HUSSAIN: HTTPSConnectionPool(host='app.d4digitalsolutions.com', port=443): Read timed out. (read timeout=45)
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.MADHAV_MUTHIAH_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.MADHAV_MUTHIAH_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.MADHAV MUTHIAH
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.P._Amarsingh_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.P._Amarsingh_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.P. Amarsingh
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.M._BALASUBRAMANIAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.M._BALASUBRAMANIAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.M. BALASUBRAMANIAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.R._MANIVANNAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.R._MANIVANNAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R. MANIVANNAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.S._PALANISAMY_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.S._PALANISAMY_birthday.jpg","error":false,"message":"Successfully uploaded."}
+❌ DM failed for Rtn.S. PALANISAMY: 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.R._Ravichandran_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.R._Ravichandran_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R. Ravichandran
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.K._KAILASHNATH_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.K._KAILASHNATH_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.K. KAILASHNATH
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Kasthuri_Suresh_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.Kasthuri_Suresh_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Kasthuri Suresh
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.C._PRASATH_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.C._PRASATH_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.C. PRASATH
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.GANDHI_PERIYASAMY_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.GANDHI_PERIYASAMY_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.GANDHI PERIYASAMY
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Mohamed_abdullah_Abdul_rasith_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.Mohamed_abdullah_Abdul_rasith_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Mohamed abdullah Abdul rasith
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.KARUPPANNAN_GUNASEKARAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.KARUPPANNAN_GUNASEKARAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.KARUPPANNAN GUNASEKARAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.S.R._Swaminathan_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.S.R._Swaminathan_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.S.R. Swaminathan
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Mr._A_Malaichamy_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.Mr._A_Malaichamy_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Mr. A Malaichamy
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.KARTHIKEYAN_M_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250815_Rtn.KARTHIKEYAN_M_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.KARTHIKEYAN M
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
+Saved 11 team members to our_team_details.csv
+Looking for birthdays on 08/16/2025…
+✅ Created image: output\Rtn.PARAMASIVAM_RAMARAJ_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.PARAMASIVAM_RAMARAJ_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.PARAMASIVAM RAMARAJ
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.SHOBHANA_BALAKRISHNAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.SHOBHANA_BALAKRISHNAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.SHOBHANA BALAKRISHNAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.RTN_R_R_PRAVEEN_KUMAR_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.RTN_R_R_PRAVEEN_KUMAR_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.RTN R R PRAVEEN KUMAR
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.RAMANATHAN_VAIRAVAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.RAMANATHAN_VAIRAVAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.RAMANATHAN VAIRAVAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.MALATHI_BASKER_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.MALATHI_BASKER_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.MALATHI BASKER
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.RAGURAAM_R.S.K_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.RAGURAAM_R.S.K_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.RAGURAAM R.S.K
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.R._Nagarajan_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.R._Nagarajan_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.R. Nagarajan
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.SUMATHI_RAGURAAM_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.SUMATHI_RAGURAAM_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.SUMATHI RAGURAAM
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.M._ULAGANATHAN_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.M._ULAGANATHAN_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.M. ULAGANATHAN
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Rtn_S_Rakesh_birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.Rtn_S_Rakesh_birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Rtn S Rakesh
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Created image: output\Rtn.Balasubramanian_S._birthday.jpg
+Upload Status Code: 200
+Upload Response: {"image_url":"https:\/\/picnie.s3.ap-south-1.amazonaws.com\/user_assets\/user_226\/raw_250816_Rtn.Balasubramanian_S._birthday.jpg","error":false,"message":"Successfully uploaded."}
+✅ WhatsApp DM sent to Rtn.Balasubramanian S.
+❌ Group send failed (120363314164316321): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363202664832172): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (120363183272810504): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919445298001-1532168871): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919788864442-1632333227): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842694845-1422978468
+❌ Group send failed (919942904575-1570156592): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+✅ Group sent: 919842118542-1487664244
+❌ Group send failed (120363198539639457): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (917010153530-1573039790): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919894744499-1626851462): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+❌ Group send failed (919360399990-1606973063): 400 Client Error: Bad Request for url: https://app.d4digitalsolutions.com/send-media
+🎉 All done!
+-> C:\Python313\python.exe scrape_names.py
+-> C:\Python313\python.exe birthday_script.py
