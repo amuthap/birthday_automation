@@ -146,8 +146,8 @@ def main():
             club  = row["Address"].strip()
             role  = row["Roll"].strip()
             img_url = row["image"].strip()
-            #wa = digits_only(row.get("WhatsApp","")) or digits_only(row.get("Phone",""))
-            wa = digits_only(row.get("WhatsApp",""))
+            wa = digits_only(row.get("WhatsApp","")) or digits_only(row.get("Phone",""))
+            #wa = digits_only(row.get("WhatsApp",""))
             if not wa:
                 print(f"⚠️ No WhatsApp/Phone for {name}; skipping DM.")
             safe_name = name.replace(" ", "_")
@@ -192,13 +192,15 @@ def main():
                 if wa:
                     try:
                         send_whatsapp_message(wa, out_url, name)
+                        send_whatsapp_message("9789365651", out_url, name)
+
                     except Exception as e:
                         print(f"❌ DM failed for {name}: {e}")
 
                 # Post to groups
                 for gid in GROUP_IDS:
                     try:
-                        gid=gid+789456
+                        #gid=gid+789456
                         send_group_media(gid, out_url, GROUP_CAPTION)
                         print(f"✅ Group sent: {gid}")
                         time.sleep(0.5)  # mild rate-limit cushion
