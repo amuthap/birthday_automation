@@ -102,7 +102,7 @@ def send_whatsapp_message(phone_digits, image_url, name):
     }
     r = requests.post(API_URL, data=data, timeout=45)
     r.raise_for_status()
-    print(f"✅ WhatsApp DM sent to {name}")
+    print(f"✅ WhatsApp DM sent to {phone_digits}")
     return True
 
 def send_group_media(group_id, image_url, caption):
@@ -191,7 +191,7 @@ def main():
                 # DM individual
                 if wa:
                     try:
-                        send_whatsapp_message(wa, out_url, name)
+                        #send_whatsapp_message(wa, out_url, name)
                         send_whatsapp_message("9789365651", out_url, name)
 
                     except Exception as e:
@@ -200,7 +200,7 @@ def main():
                 # Post to groups
                 for gid in GROUP_IDS:
                     try:
-                        #gid=gid+789456
+                        gid=gid+789456
                         send_group_media(gid, out_url, GROUP_CAPTION)
                         print(f"✅ Group sent: {gid}")
                         time.sleep(0.5)  # mild rate-limit cushion
